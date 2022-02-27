@@ -1,0 +1,33 @@
+body {
+    background-color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    margin: 150px;
+}
+
+#container {
+    max-width: 320px;
+    margin: auto;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    border: 1px solid hsl(0, 0%, 100%);
+    border-radius: 12px;
+    box-shadow: 0 4px 16px 0 hsl(0, 0%, 100%);
+    padding: 15px;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(220, 15%, 55%); 
+}
+
+.attribution a:hover { 
+    color: hsl(218, 44%, 22%); 
+}
