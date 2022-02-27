@@ -24,7 +24,7 @@ The challenge is to build out this QR code component and get it looking as close
 ### Links
 
 - Solution URL: [NFT Preview Card - GitHub solution](https://github.com/irishmicoletcando/qr-code-component)
-- Live Site URL: [NFT Preview Card - Netlify](https://jovial-minsky-592cd1.netlify.app/)
+- Live Site URL: [NFT Preview Card - Netlify](https://gracious-einstein-ea356d.netlify.app/)
 
 ### Built with
 
